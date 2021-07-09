@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://cdn.hipwallpaper.com/i/2/66/RMCi1K.png');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+img { 
+  margin: 0 10px;
+  margin-top: 2px;
+  width: 300px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+p{
+  color: white;
+  margin-top: 2px;
+  size: 20px;
+}
